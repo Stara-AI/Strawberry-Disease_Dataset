@@ -1,0 +1,8 @@
+flower
+health
+ripe
+fruit
+fertilizer
+powdery
+acalcerosis
+greyleaf
